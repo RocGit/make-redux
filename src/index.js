@@ -6,7 +6,8 @@ import * as serviceWorker from './serviceWorker';
 // import Index from './ReactReduxDumy/index'
 // import Index from './ReactReduxDumy/indexImprove1'
 // import Index from './ReactRedux/index'
-import Index from './AGallery'
+// import Index from './AGallery'
+import Index from './BGallery'
 
 // ReactDOM.render(<App />, document.getElementById('root'));
 ReactDOM.render(<Index />, document.getElementById('root'));
